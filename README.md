@@ -1,5 +1,5 @@
 # Ejercicios de recursividad
-### Link del repositorio:
+### Link del repositorio: https://github.com/seerraa16/recursividad.git
 ## 1. Búsqueda por dicotomía en una tabla ordenada
 #### Se pide resolver el mismo problema definiendo una función recursiva.
 ## 2. Palíndromos
